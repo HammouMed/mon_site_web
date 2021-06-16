@@ -1,2 +1,5 @@
 tmp/ign.txt
 */txt
+tmp/*
+*.xml
+
